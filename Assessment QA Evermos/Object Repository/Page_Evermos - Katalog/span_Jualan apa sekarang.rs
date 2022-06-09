@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jualan apa sekarang</name>
+   <tag></tag>
+   <elementGuidId>9b778437-74e8-4361-a99c-e0f53da2238d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.appHead__search__input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>efa0d160-693a-41d7-9873-6f3ccbff28f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appHead__search__input</value>
+      <webElementGuid>9a2569ea-b1c2-4af4-bc33-c93c6b319878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jualan apa sekarang ?</value>
+      <webElementGuid>8722fa2e-972d-46ad-a33b-f58b6335ce65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;appHead&quot;]/div[@class=&quot;appHead__panel&quot;]/a[@class=&quot;appHead__search&quot;]/span[@class=&quot;appHead__search__input&quot;]</value>
+      <webElementGuid>4099c0d0-9030-4615-80dd-3755689abc7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/a/span</value>
+      <webElementGuid>0464f686-b5a8-4a21-833d-5802dcda02fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::span[2]</value>
+      <webElementGuid>265a4b62-721d-4f80-87e6-0200be2d883e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai keuntungan bisa kamu dapatkan di Aplikasi Evermos.'])[1]/following::span[2]</value>
+      <webElementGuid>b1f2e30d-44c5-44b2-bba7-1c7e39d4cbe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat promo &amp; tantangan'])[1]/preceding::span[6]</value>
+      <webElementGuid>6614c1bb-8840-4297-a92c-93d573f2a8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas Pemula'])[1]/preceding::span[6]</value>
+      <webElementGuid>10f814ce-b00f-4d60-a916-3a7a493ecde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jualan apa sekarang ?']/parent::*</value>
+      <webElementGuid>e6f0b77c-62d8-4067-ae28-f91977ce6b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>d9f4425d-e12d-4e37-839e-5880fdf28cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Jualan apa sekarang ?' or . = 'Jualan apa sekarang ?')]</value>
+      <webElementGuid>410d88e3-dec1-4ee5-ba46-0f08a0003586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

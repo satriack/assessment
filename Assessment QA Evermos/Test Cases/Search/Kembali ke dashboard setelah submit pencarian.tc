@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kembali ke dashboard setelah submit pencarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de50a7b5-375f-4fe8-bc0b-a58dccabd451</testCaseGuid>
+</TestCaseEntity>
